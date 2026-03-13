@@ -1,6 +1,9 @@
 IT-105 Information Management 1
+
 Christofer B. Baldano
+
 BS Information Systems  
+
 Bicol University Polangui
 
 This repository contains SQL files used for laboratory tasks and activities for the **IT-105 Information Management 1** course.
